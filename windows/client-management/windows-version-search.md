@@ -37,7 +37,7 @@ You can type the following in the search bar and press **ENTER** to see version 
 ![screenshot of the System Information display text.](images/msinfo32.png)
 
 ## Using Command Prompt or PowerShell
-At the Command Prompt or PowerShell interface, type **"systeminfo | findstr /B /C:"OS Name" /B /C:"OS Version"** and then press **ENTER**
+At the Command Prompt or PowerShell interface, type **systeminfo | findstr /B /C:"OS Name" /B /C:"OS Version"** and then press **ENTER**
 
 ![screenshot of system information display text.](images/refcmd.png)
 
